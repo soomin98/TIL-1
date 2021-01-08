@@ -27,6 +27,8 @@ ba71fdc (HEAD -> master) Revert "Add c.txt"
 9b54031 Add a.txt
 ```
 
+![12312312312312](md-images/12312312312312.PNG)
+
 ## reset
 
 > 공개된 저장소에 push가 된 경우 주의할 것

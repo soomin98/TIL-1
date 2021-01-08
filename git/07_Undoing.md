@@ -28,6 +28,8 @@ Changes not staged for commit:
 
 ```
 
+![3125646324](md-images/3125646324.jpg)
+
 ## Working directory 작업 내용 취소
 
 > 커밋되지 않은 변경사항을 되돌릴 수는 없다.
@@ -43,6 +45,8 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
+
+![63546435](md-images/63546435.jpg)
 
 ## Commit 메시지 변경
 
@@ -99,7 +103,7 @@ $ git log --oneline
    create mode 100644 omit.txt
   ```
 
-
+![8678678678678](md-images/8678678678678.jpg)
 
 
 
