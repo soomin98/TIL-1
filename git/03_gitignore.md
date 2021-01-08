@@ -5,6 +5,10 @@
 `.gitignore` 라는 파일을 만들어서 디렉토리를 관리한다.
 
 ```bash
+$ code .gitignore
+```
+
+```bash
 a.txt # 특정 파일
 venv/ # 특정 폴더
 *.csv # 특정 확장자
